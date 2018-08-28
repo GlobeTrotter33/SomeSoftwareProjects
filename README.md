@@ -1,3 +1,1 @@
-# project1
-dummy project
-yes, it's dummy project.
+Simple Telnet Client/Server application.
